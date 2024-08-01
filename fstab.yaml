@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/17LSiMZC77N8tCJRW45TnHHGcG8V3SLG_
+  /:
+    url: https://author-p107005-e250054-cmstg.adobeaemcloud.com/bin/franklin.delivery/deepprakash345/testathontest/main
+    type: "markup"
+    suffix: ".html"
